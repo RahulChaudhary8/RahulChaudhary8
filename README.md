@@ -8,7 +8,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulchaudhary8" alt="rahulchaudhary8" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rahulma37660897" target="blank"><img src="https://img.shields.io/twitter/follow/rahulma37660897?logo=twitter&style=for-the-badge" alt="rahulma37660897" /></a> </p>
+<p align="left"> 
+  <a href="https://www.instagram.com/rahul.chaudhary.18400/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a> 
+</p>
+
 
 - 🌱 I’m currently learning **Html, Css, JavaScript, NodeJS, React, MongoDB, Java, Data Structure and Python.**
 
