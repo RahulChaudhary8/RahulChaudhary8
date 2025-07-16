@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Html, Css, JavaScript, NodeJS, React, MongoDB, Java, Data Structure and Python.**
 
-- 👨‍💻 All of my projects are available at [https://loquacious-travesseiro-2cd842.netlify.app/](https://loquacious-travesseiro-2cd842.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fanciful-concha-11fd3b.netlify.app/](https://fanciful-concha-11fd3b.netlify.app/)
 
 - 💬 Ask me about **Html, Css, JavaScript, React, MongoDB,**
 
