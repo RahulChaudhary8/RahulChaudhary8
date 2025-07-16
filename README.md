@@ -40,9 +40,10 @@
   <a href="mailto:rahulchaudhary775285@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://wa.me/918318576674" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" />
-  </a>
+  <a href="https://wa.me/918318576674?text=Hi%20Rahul!%20I%20visited%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20collaborating%20with%20you." target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" />
+</a>
+
 </p>
 
 
